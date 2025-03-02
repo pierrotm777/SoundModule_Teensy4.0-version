@@ -16,6 +16,7 @@ All these sounds are played in same time.
 Two modes are possibles:
 - Use [X-Any/BURC encoder](https://p-loussouarn-free-fr.translate.goog/arduino/exemple/RCUL/RCUL.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) fonctions by RC-Navy, thanks to him. 
 - Use [Buttons Keypad](http://p.loussouarn.free.fr/projet/MS8-V2/MS8-V2.html#Keyboard) fonctions by RC-Navy, thanks to him.
+- The module read all WAV sounds from a SD card (from /ENGINES folder).  
 
 ### X-Any mode
 This mode decode the X-Any/BURC stream.  
@@ -55,4 +56,18 @@ A **BURC encoder** or a **LVGL ESP32 S3 Screen** is connected on a Handset by CP
   <tr>
     <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Sound_Myca_Teensy-Top3d.png" border="0" name="submit" title="Sound Module" alt="Sound Module"/></a><br><b>TOP</td>
   </tr>
-</table> 
+</table>
+
+## WAV Sounds
+Play **16-bit PCM 44100Hz Stereo** WAV audio samples at variable playback rates on Teensy.  
+- Note : this library only works with signed 16-bit integer samples. Floating point samples will not play.  
+- For best performance, use SDXC UHS 30MB/sec Application Performance Class 2 (A2) class micro SD-card.  
+
+### Sounds Motor
+It's possible to select several motors.  
+The module can list all sound's motor found into the SD card.  
+**ENG.LIST = DSL-LTL, DSL-V12, VAPEUR, DSL-OLD, DSL-120, DSL-TURB, DSL-TUG, SCAN-V12, DSL-BIG, DSL-180, DIESEL7, SCAN-250, CAT-C32, BF109**  
+Each motor use:  
+- A start file,ex:DSL-LTL_STA.  
+- An idle file,ex:DSL-LTL_IDL.  
+- A stop file,ex:DSL-LTL_STP.  
