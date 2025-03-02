@@ -72,7 +72,7 @@ Each motor use:
 - An idle file,ex:DSL-LTL_IDL.  
 - A stop file,ex:DSL-LTL_STP.  
 
-It's possible to add new motor's sounds.
+It's possible to add new motor's sounds.  
 The better way, for me, is to use [Audacity](https://www.audacityteam.org) for cut all sound find and save it as 16bits PCM 44100Hz wav file.  
 
 ### All other sounds
