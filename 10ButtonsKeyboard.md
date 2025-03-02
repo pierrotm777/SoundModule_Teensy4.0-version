@@ -30,6 +30,7 @@ BP1:0988
 BP2:  
 While holding **Push Button No. 2 pressed**, press the **Enter key** on the Serial Terminal keyboard.  
 Repeat the operation until BP10.  
+
 Once the pulse width associated with the BP10 is displayed, the calibration is complete.
 **T and RETURN** quit Calibration mode.  
 It is possible to display the 10 pulse widths associated with BP1 to BP10 using the command:
