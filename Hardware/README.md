@@ -13,7 +13,7 @@ My PCB use Kicad 9.0.
 </table>
 
 # Firmwares
-Several firmware are usable:
+Two modes are possibles:
 - X-Any.
 - Buttons Keypad. 
 
