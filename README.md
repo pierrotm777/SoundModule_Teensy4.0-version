@@ -1,6 +1,6 @@
 # SoundModule Multi Sounds Teensy4.0-version
 
-#remerciements
+# Thanks
 Based on a code idea from croby-b.  
 
 # Sound_Module features
