@@ -83,3 +83,9 @@ The better way, for me, is to use [Audacity](https://www.audacityteam.org) for c
 ### All other sounds
 All other other sounds will have to be copied under the main path.  
 See our sounds [here](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/SD_Wav_Files).  
+
+## Upload firmware
+- X-Any version, use the hex file **teensy_sound_Xany_V2.1.XANY.hex**.  
+- Buttons version, use the hex file **teensy_sound_Xany_V2.1.BUTTONS.hex**.  
+
+For upload a firmware into the Teensy you must to use the [Teensy Loader](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Firmware/Teensy_Uploader.zip).  
