@@ -10,7 +10,8 @@ Sound Module for Rc boat and Plane.
 - Smoke engine command.  
 
 # How it's work
-This board use the X-Any/BURC fonctions by RC-Navy, thanks to him.
+This board use the X-Any/BURC fonctions by RC-Navy, thanks to him.  
+
 This module decode the X-Any/BURC stream from several connections possibles:
 - PWM  
 - CPPM  
