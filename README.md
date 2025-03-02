@@ -10,6 +10,7 @@ Sound Module for Rc boat and Plane.
 - Engine(s) variable sound.  
 - Multi Sounds (3 sound in same time).  
 - Smoke (pump and tank) engine command.  
+All these sounds are played in same time.  
 
 ## How it's work
 Two modes are possibles:
