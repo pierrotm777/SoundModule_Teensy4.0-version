@@ -1,9 +1,9 @@
 # Multi Sounds for RC boat (or RC plane)
 
-# Credits
+## Credits
 Based on a croby-b's code idea.  
 
-# Sound Module features
+## Sound Module features
 For build this module we use the [Teensy-Variable-Playback](https://github.com/newdigate/teensy-variable-playback) library with a Teensy 4.0.  
 
 Sound Module for Rc boat and Plane.  
@@ -11,7 +11,7 @@ Sound Module for Rc boat and Plane.
 - Multi Sounds (3 sound in same time).  
 - Smoke (pump and tank) engine command.  
 
-# How it's work
+## How it's work
 This board use the [X-Any/BURC encoder](https://p-loussouarn-free-fr.translate.goog/arduino/exemple/RCUL/RCUL.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) fonctions by RC-Navy, thanks to him.  
 
 This module decode the X-Any/BURC stream from several connections possibles:
