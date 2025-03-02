@@ -19,21 +19,21 @@ this will therefore generate an RC pulse of different width which will be found 
 It is therefore necessary for Sound Module to know the channel pulse width associated with each push button.  
 
 To do this, simply switch to calibration mode by sending the command via the serial terminal: (this calibration only needs to be carried out once)  
-T and RETURN in Calibration mode.  
-C (Push Buttons = Calibration).
+**T and RETURN** in Calibration mode.  
+**C and RETURN** (Push Buttons = Calibration).
 
 The display becomes:  
 BP1:  
-While holding Push Button No. 1 pressed, press the Enter key on the Serial Terminal keyboard.  
+While holding **Push Button No. 1 pressed**, press the **Enter key** on the Serial Terminal keyboard.  
 The pulse width measured for BP1 will then be displayed (and automatically stored) and BP2 will be displayed:  
 BP1:0988  
 BP2:  
-While holding Push Button No. 2 pressed, press the Enter key on the Serial Terminal keyboard.  
+While holding **Push Button No. 2 pressed**, press the **Enter key** on the Serial Terminal keyboard.  
 Repeat the operation until BP10.  
 Once the pulse width associated with the BP10 is displayed, the calibration is complete.
-T and RETURN quit Calibration mode.  
+**T and RETURN** quit Calibration mode.  
 It is possible to display the 10 pulse widths associated with BP1 to BP10 using the command:
-B and RETURN.  
+**B and RETURN**.  
 B=0988;1100;1228;1320;1672;1768;1888;2016;BT9;BT10  
 
 There must be at least 65 µs difference between 2 "near" pulse widths.  
