@@ -32,9 +32,10 @@ Depending on the receiver used, it's possible to connect the sound module in dif
 ### Buttons mode
 This mode use a keyboard with 10 buttons (8 buttons + 2 for volume sounds).  
 It's a good solution for rc transmitters that do not have a training input.  
-This keyboard is connected on a freen input channel in place of a potentiometer.  
+This keyboard is connected on a free input channel in place of a potentiometer.  
 This mode accept only 8 sounds.  
 The buttons 9 and 10 up or down the volume's sounds.  
+![10 buttons board](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10buttons_sch.png)
 Depending on the receiver used, it is possible to connect the sound module in different ways:
 - PWM  
 - CPPM  
