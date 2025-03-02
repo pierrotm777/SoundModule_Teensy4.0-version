@@ -1,4 +1,4 @@
-# SoundModule Multi Sounds Teensy4.0-version
+# RC Multi Sounds Teensy4.0-version for plane
 
 # Thanks
 Based on a code idea from croby-b.  
@@ -23,9 +23,9 @@ This module decode the X-Any/BURC stream from several connections possibles:
 
 A [BURC encoder](https://p-loussouarn-free-fr.translate.goog/arduino/exemple/RCUL/RCUL.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) or a LVGL ESP32 S3 Screen is connected on a Handset by CPPM or SBUS.     
 
-**This X-Any/BURC coder use the trainer port as slave and uses up to 3 channels as X-Any fonctions.** 
-**X-Any inject an additional RC channel to a CPPM or SBUS frame for transport message over this additional channel.**  
-**At reception side, the message is extracted from the channel corresponding to the additional channel.**  
+**This X-Any/BURC coder use the trainer port as slave and uses up to 3 channels (for the Sound Module) as X-Any fonctions.** 
+**X-Any inject three additionals RC channels to a CPPM or SBUS frame for transport messages over these additionals channels.**  
+**At reception side, these messages are extracted from these channels corresponding to the additionals channels.**  
 **This serial port can be used to transport a message containing the status of a set of switches or set of sound in the Soud Modul case.**  
 
 ## PCB version v1.0
