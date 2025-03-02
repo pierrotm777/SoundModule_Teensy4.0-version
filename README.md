@@ -1,16 +1,18 @@
-# Multi Sounds Teensy4.0-version for RC boat (or RC plane)
+# Multi Sounds for RC boat (or RC plane)
 
-# Thanks
-Based on a code idea from croby-b.  
+# Credits
+Based on a croby-b's code idea.  
 
-# Sound_Module features
+# Sound Module features
+For build this module we use the [Teensy-Variable-Playback](https://github.com/newdigate/teensy-variable-playback) library with a Teensy 4.0.  
+
 Sound Module for Rc boat and Plane.  
-- Engine sound.  
+- Engine(s) variable sound.  
 - Multi Sounds (3 sound in same time).  
-- Smoke engine command.  
+- Smoke (pump and tank) engine command.  
 
 # How it's work
-This board use the X-Any/BURC fonctions by RC-Navy, thanks to him.  
+This board use the [X-Any/BURC encoder](https://p-loussouarn-free-fr.translate.goog/arduino/exemple/RCUL/RCUL.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) fonctions by RC-Navy, thanks to him.  
 
 This module decode the X-Any/BURC stream from several connections possibles:
 - PWM  
@@ -21,7 +23,7 @@ This module decode the X-Any/BURC stream from several connections possibles:
 - SRXL  
 - JETIEX  
 
-A [BURC encoder](https://p-loussouarn-free-fr.translate.goog/arduino/exemple/RCUL/RCUL.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) or a LVGL ESP32 S3 Screen is connected on a Handset by CPPM or SBUS.     
+A **BURC encoder** or a **LVGL ESP32 S3 Screen** is connected on a Handset by CPPM or SBUS.     
 
 **This X-Any/BURC coder use the trainer port as slave and uses up to 3 channels (for the Sound Module) as X-Any fonctions.** 
 **X-Any inject three additionals RC channels to a CPPM or SBUS frame for transport messages over these additionals channels.**  
