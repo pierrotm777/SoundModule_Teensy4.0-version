@@ -4,21 +4,16 @@
 Control in Push-Button mode for the Sound Module is simply obtained by upload the Buttons hex file.  
 
 In this command mode, the keyboard can be of type:  
-- DIY (homemade) keyboard with assembly of 10 push buttons and resistors: (in the DIY keyboard example below, it is a keyboard with 7 push buttons)
-
-Top of the DIY Push-Button Keyboard
-
-Kingpad keyboard from Pistenking or Steuerpad from Kraftwerk:
-
-Kingpad keyboard from Pistenking Steuerpad keyboard from Kraftwerk
-
-Virtual touch keyboard (LUA script) for FrSky Ethos transmitters (X20 or X20S):
-Virtual touch keyboard (LUA script) for EdgeTx transmitters (LCD Color screen):
+- DIY (homemade) keyboard with assembly of 10 push buttons and resistors.  
+- Kingpad keyboard from Pistenking.  
+- Steuerpad from Kraftwerk.  
+-  Virtual touch keyboard (LUA script) for FrSky Ethos transmitters (X20 or X20S).  
+- Virtual touch keyboard (LUA script) for EdgeTx transmitters (LCD Color screen).  
 
 When using a physical or virtual KingPad keyboard from Pistenking or a physical Steuerpad keyboard from Kraftwerk, only 8 keys out of the 12 available are used by the MS8 V2 decoder (8 outputs).
-If using a DIY keypad, wire 10 push buttons.
+If using a DIY keypad, wire 10 push buttons, 8 for 8 sound and 2 for change the volume of sounds.  
 
-Each press of a push button generates a different voltage at the input of the transmitter channel,  
+Each press of a push button generates a different voltage at the input of the transmitter channel,
 this will therefore generate an RC pulse of different width which will be found on the reception side on the associated channel.  
 
 It is therefore necessary for Sound Module to know the channel pulse width associated with each push button.  
