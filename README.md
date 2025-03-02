@@ -1,4 +1,4 @@
-# RC Multi Sounds Teensy4.0-version for plane
+# Multi Sounds Teensy4.0-version for RC boat (or RC plane)
 
 # Thanks
 Based on a code idea from croby-b.  
