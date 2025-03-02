@@ -1,4 +1,6 @@
 # EXAMPLE OF CONFIGURATION IN PUSH-BUTTON MODE
+![10 buttons board](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10buttons_sch.png)  
+
 Control in Push-Button mode for the Sound Module is simply obtained by upload the Buttons hex file.  
 
 In this command mode, the keyboard can be of type:  
