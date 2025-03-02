@@ -18,9 +18,23 @@ Two modes are possibles:
 - Use [Buttons Keypad](http://p.loussouarn.free.fr/projet/MS8-V2/MS8-V2.html#Keyboard) fonctions by RC-Navy, thanks to him.
 
 ### X-Any mode
+This module decode the X-Any/BURC.  
+Depending on the receiver used, it's possible to connect the sound module in different ways:
+- PWM  
+- CPPM  
+- SBUS (without inverter)  
+- IBUS  
+- SUMD  
+- SRXL  
+- JETIEX  
 
-
-This module decode the X-Any/BURC stream from several connections possibles:
+### Buttons mode
+This mode use a keyboard with 10 buttons (8 buttons + 2 for volume sounds).  
+It's a good solution for rc transmitters that do not have a training input.  
+This keyboard is connected on a freen input channel in place of a potentiometer.  
+This mode accept only 8 sounds.  
+The buttons 9 and 10 up or down the volume's sounds.  
+Depending on the receiver used, it is possible to connect the sound module in different ways:
 - PWM  
 - CPPM  
 - SBUS (without inverter)  
