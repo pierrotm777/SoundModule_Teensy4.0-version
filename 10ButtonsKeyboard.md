@@ -18,7 +18,7 @@ this will therefore generate an RC pulse of different width which will be found 
 
 It is therefore necessary for Sound Module to know the channel pulse width associated with each push button.  
 
-To do this, simply switch to calibration mode by sending the command via the serial terminal: (this calibration only needs to be carried out once)
+To do this, simply switch to calibration mode by sending the command via the serial terminal: (this calibration only needs to be carried out once)  
 T and RETURN in Calibration mode.  
 C (Push Buttons = Calibration).
 
