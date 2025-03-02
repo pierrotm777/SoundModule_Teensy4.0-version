@@ -36,6 +36,11 @@ This keyboard is connected on a free input channel in place of a potentiometer.
 This mode accept only 8 sounds.  
 The buttons 9 and 10 up or down the volume's sounds.  
 ![10 buttons board](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10buttons_sch.png)
+<table cellspacing=0>
+  <tr>
+    <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10ButtonsKeyboard.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10buttons_sch.png" border="0" name="submit" title="Sound Module" alt="Sound Module"/></a><br><b>TOP</td>
+  </tr>
+</table>
 Depending on the receiver used, it is possible to connect the sound module in different ways:
 - PWM  
 - CPPM  
