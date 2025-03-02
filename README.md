@@ -18,7 +18,7 @@ Two modes are possibles:
 - Use [Buttons Keypad](http://p.loussouarn.free.fr/projet/MS8-V2/MS8-V2.html#Keyboard) fonctions by RC-Navy, thanks to him.
 
 ### X-Any mode
-This module decode the X-Any/BURC.  
+This mode decode the X-Any/BURC stream.  
 Depending on the receiver used, it's possible to connect the sound module in different ways:
 - PWM  
 - CPPM  
