@@ -1,11 +1,27 @@
 # SoundModule Multi Sounds Teensy4.0-version
+
+#remerciements
+Based on a code idea from croby-b.  
+
+# Sound_Module features
 Sound Module for Rc boat and Plane.  
 - Engine sound.  
 - Multi Sounds (3 sound in same time).  
 - Smoke engine command.  
 
-# Sound_Module
-This Sound Module use the trainer input in CPPM or SBUS mode for connecte a [BURC encoder](https://github.com/pierrotm777/BURC_Encoder) or a LVGL ESP32 S3 Screen.    
+#How it's work
+This board use the X-Any/BURC fonctions by RC-Navy, thanks to him.
+This module decode the X-Any/BURC stream from several connections possibles:
+- PWM  
+- CPPM  
+- SBUS (without inverter)  
+- IBUS  
+- SUMD  
+- SRXL  
+- JETIEX  
+
+A [BURC encoder](https://p-loussouarn-free-fr.translate.goog/arduino/exemple/RCUL/RCUL.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) or a LVGL ESP32 S3 Screen is connected on a Handset by CPPM or SBUS.     
+This coder use the trainer port as slave.  
 
 ## PCB version v1.0
 <table cellspacing=0>
