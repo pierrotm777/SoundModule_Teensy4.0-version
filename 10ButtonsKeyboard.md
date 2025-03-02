@@ -10,7 +10,7 @@ In this command mode, the keyboard can be of type:
 -  Virtual touch keyboard (LUA script) for FrSky Ethos transmitters (X20 or X20S).  
 - Virtual touch keyboard (LUA script) for EdgeTx transmitters (LCD Color screen).  
 
-When using a physical or virtual KingPad keyboard from Pistenking or a physical Steuerpad keyboard from Kraftwerk, only 8 keys out of the 12 available are used by the MS8 V2 decoder (8 outputs).
+When using a physical or virtual KingPad keyboard from Pistenking or a physical Steuerpad keyboard from Kraftwerk, only 8 keys out of the 12 available are used by the Sound Module.
 If using a DIY keypad, wire 10 push buttons, 8 for 8 sound and 2 for change the volume of sounds.  
 
 Each press of a push button generates a different voltage at the input of the transmitter channel,
