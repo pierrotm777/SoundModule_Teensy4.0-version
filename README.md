@@ -56,11 +56,11 @@ A **BURC encoder** or a **LVGL ESP32 S3 Screen** is connected on a Handset by CP
 **At reception side, these messages are extracted from these channels corresponding to the additionals channels.**  
 **This serial port can be used to transport a message containing the status of a set of switches or set of sound in the Soud Modul case.**  
 
-## PCB version v1.0
+## PCB versions
 <table cellspacing=0>
   <tr>
-    <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Sound_Myca_Teensy-Top3d_v1.0.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.0"/></a><br><b>TOP</td>
-    <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Sound_Myca_Teensy-Top3d_v1.1.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.1"/></a><br><b>TOP</td>
+    <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/Sound_Myca_Teensy-Top3d_v1.0.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.0"/></a><br><b>TOP</td>
+    <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/Sound_Myca_Teensy-Top3d_v1.1.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.1"/></a><br><b>TOP</td>
   </tr>
 </table>
 
