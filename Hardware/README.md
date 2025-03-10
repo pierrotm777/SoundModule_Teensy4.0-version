@@ -2,7 +2,7 @@
 My PCB use Kicad 9.0.  
 
 ## Sound_Module v1.0 schematic
-![here](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/Sound_Myca_Teensy_v1.0.png)  
+![here](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.0/Sound_Myca_Teensy_v1.0.png)  
 
 ## PCB version v1.0
 <table border="2">
