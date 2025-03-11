@@ -4,6 +4,7 @@ My PCB use Kicad 9.0.
 # What news with this version
 This version solve forgotten wire between SD and Teensy.  
 Add CRSF option.  
+With CRSF it's possible to have a full telemetry if needed.  
 
 ## Schematics v1.1
 <table border="2">
