@@ -21,3 +21,6 @@ Two modes are possibles:
 - X-Any.
 - Buttons Keypad. 
 
+## Solve unconnected wire
+On this version, I have forgotten one wire between SD and Teensy (SCK wire).  
+You must connect Pin4(SD) to Pin13(Teensy).  
