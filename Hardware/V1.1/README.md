@@ -1,6 +1,10 @@
 # Hardwares
 My PCB use Kicad 9.0.  
 
+# What news with this version
+This version solve forgotten wire between SD and Teensy.  
+Add CRSF option.  
+
 ## Schematics v1.1
 <table border="2">
 <tr>
