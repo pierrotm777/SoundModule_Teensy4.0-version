@@ -24,4 +24,10 @@ Two modes are possibles:
 ## Solve unconnected wire
 On this version, I have forgotten one wire between SD and Teensy (SCK wire).  
 You must connect Pin4(SD) to Pin13(Teensy).  
-![add this wire](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.0/add_wire.png)
+![add this wire](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.0/add_wire.png)  
+
+## Add voltage divider bridge
+It's possible to read input voltage on pin 15  
+![add this wire](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.0/Add_3S_Input.png)  
+
+
