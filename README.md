@@ -11,6 +11,7 @@ Sound Module for Rc boat and Plane.
 - Multi Sounds (3 sound in same time).  
 - Smoke (pump and tank) engine command.  
 All these sounds are played in same time.  
+- Telemetry (CRSF,IBUS,S-PORT).  
 
 ## How it's work
 Two modes are possibles:
@@ -48,6 +49,7 @@ Depending on the receiver used, it is possible to connect the sound module in di
 - SUMD  
 - SRXL  
 - JETIEX  
+- CRSF  
 
 A **BURC encoder** or a **LVGL ESP32 S3 Screen** is connected on a Handset by CPPM or SBUS.     
 
