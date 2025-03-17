@@ -21,7 +21,7 @@ Two modes are possibles:
 
 ### X-Any mode
 This mode decode the X-Any/BURC stream.  
-Depending on the receiver used, it's possible to connect the sound module in different ways:
+Depending on the receiver used, it's possible to connect the sound module in different ways:  
 - PWM  
 - CPPM  
 - SBUS (without inverter)  
