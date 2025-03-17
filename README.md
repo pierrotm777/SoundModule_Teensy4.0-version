@@ -42,7 +42,7 @@ The buttons 9 and 10 up or down the volume's sounds.
     <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10ButtonsKeyboard.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10buttons_sch.png" border="0" name="submit" title="Sound Module" alt="Sound Module"/></a><br><b>KeyBoard 10 buttons</td>
   </tr>
 </table>
-Depending on the receiver used, it is possible to connect the sound module in different ways:
+Depending on the receiver used, it is possible to connect the sound module in different ways:  
 - PWM  
 - CPPM  
 - SBUS (without inverter)  
