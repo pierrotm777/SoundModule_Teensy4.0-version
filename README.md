@@ -19,8 +19,10 @@ Two modes are possibles:
 - Use [Buttons Keypad](http://p.loussouarn.free.fr/projet/MS8-V2/MS8-V2.html#Keyboard) fonctions by RC-Navy, thanks to him.  
 - The module read all WAV sounds from a SD card (from /ENGINES folder).  
 
+
 ### X-Any mode
 This mode decode the X-Any/BURC stream.  
+
 Depending on the receiver used, it's possible to connect the sound module in different ways:  
 - PWM  
 - CPPM  
@@ -38,11 +40,13 @@ It's a good solution for rc transmitters that do not have a training input.
 This keyboard is connected on a free input channel in place of a potentiometer.  
 This mode accept only 8 sounds.  
 The buttons 9 and 10 up or down the volume's sounds.  
+
 <table cellspacing=0>
   <tr>
     <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10ButtonsKeyboard.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/10buttons_sch.png" border="0" name="submit" title="Sound Module" alt="Sound Module"/></a><br><b>KeyBoard 10 buttons</td>
   </tr>
 </table>
+
 Depending on the receiver used, it's possible to connect the sound module in different ways:  
 - PWM  
 - CPPM  
