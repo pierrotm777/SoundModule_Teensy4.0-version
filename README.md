@@ -31,6 +31,7 @@ Depending on the receiver used, it's possible to connect the sound module in dif
 - JETIEX  
 - CRSF  
 
+
 ### Buttons mode
 This mode use a keyboard with 10 buttons (8 buttons + 2 for volume sounds).  
 It's a good solution for rc transmitters that do not have a training input.  
