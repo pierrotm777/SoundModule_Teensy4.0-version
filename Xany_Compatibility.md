@@ -13,5 +13,5 @@ System|Type|Output|Repeat|Filter|
 |Hitec|PWM |SORTIES +-100%|R=1|F=1|
 |Spektrum|PWM|SORTIES +-132%|R=1|F=0|
 
-Graupner SUMD non testé mais très probablement fonctionnel.  
-Multiplex n'est pas compatible Xany :-(  
+Graupner SUMD untested but most likely working.  
+Multiplex is not Xany compatible :-(  
