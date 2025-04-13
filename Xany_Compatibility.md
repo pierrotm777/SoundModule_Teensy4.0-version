@@ -6,7 +6,7 @@ Xany Operational Report:
 All tests were performed with a Teensy 4.0 and Xany2Spy sw=8 and sw=16.  
 
 ### REGLAGES ENSEMBLE CODEUR/DECODEUR BURC POUR DIFFERENTS EMETTEURS/RECEPTEURS
-
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/RculXanyTests_V0.png)  
 
 ## Codeur BURC	---------- Emetteur ---------- / ---------- Récepteur ---------- Décodeur BURC
 |Modèle|Mode|Répétition(s)|Entrée Ecolage|Modèle|Voie -/+%|Modèle|Interface de Sortie|Modèle|Niveau Filtrage|
