@@ -10,8 +10,9 @@ System|Type|Output|Repeat|Filter|
 |:---|:---|:---|:---|:---|
 |FrskyX|PWM/SBUS|SORTIES +-100%|R=2|F=0|
 |FlySky|PWM/IBUS/SBUS/PPM|SORTIES +-100%|R=2|F=2|
-|Graupner|PWM/SUMD|SORTIES +-100%|R=1|F=0| (Sumd non testé mais très probablement fonctionnel)
+|Graupner|PWM/SUMD|SORTIES +-100%|R=1|F=0| 
 |Hitec|PWM |SORTIES +-100%|R=1|F=1|
 |Spektrum|PWM|SORTIES +-132%|R=1|F=0|
 
+Graupner SUMD non testé mais très probablement fonctionnel.  
 Multiplex n'est pas compatible Xany :-(  
