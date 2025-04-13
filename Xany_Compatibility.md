@@ -37,7 +37,7 @@ Multiplex is not Xany compatible :-(
 |BURC|SBUS Normal|1|SBUS|Radiomaster TX16S|132|Hitec Optima 7|PWM|XanySpyV7|0|
 |---|---|---|---|---|---|---|---|---|---|
 |BURC|SBUS Normal|1|SBUS|Radiomaster TX16S|132|Spektrum ART6610T|PWM|XanySpyV7|0|
-|---|---|---|---|---|---|---|---|---|---|
+|||||||||||
 |BURC|SBUS Normal|5|SBUS|Radiomaster TX16S|94|Multiplex RX—9-DR SRXL16|PWM|XanySpyV7|1|
 |BURC|SBUS Normal|5|SBUS|Radiomaster TX16S|94|Multiplex RX—9-DR SRXL16|SRXL|XanySpyV7|1|
 
