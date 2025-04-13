@@ -7,7 +7,7 @@ All tests were performed with a Teensy 4.0 and Xany2Spy sw=8 and sw=16.
 
 ### REGLAGES ENSEMBLE CODEUR/DECODEUR BURC POUR DIFFERENTS EMETTEURS/RECEPTEURS
 
-|Codeur BURC|Emetteur|||||||Récepteur|Décodeur BURC|
+Codeur BURC				Emetteur			Récepteur				Décodeur BURC
 |Modèle|Mode|Répétition(s)|Entrée Ecolage|Modèle|Voie -/+%|Modèle|Interface de Sortie|Modèle|Niveau Filtrage|
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |BURC|CPPM 8 Voies T=22ms|2|CPPM|Radiomaster TX16S|100|FrSky X8R|PWM|XanySpyV7|0|
