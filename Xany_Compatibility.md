@@ -1,10 +1,9 @@
 ## Xany Compatibility
 All RC systems are not compatible with the Xany protocol.  
 
-### Usable system with Xany
-
-Compte rendu bon fonctionnement Xany:  
-Les tests ont tous été réalisés avec un Teensy 4.0 et Xany2Spy sw=8 et sw=16.  
+### Usable systems with Xany
+Xany Operational Report:
+All tests were performed with a Teensy 4.0 and Xany2Spy sw=8 and sw=16.  
 
 System|Type|Output|Repeat|Filter|
 |:---|:---|:---|:---|:---|
