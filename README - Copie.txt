@@ -8,7 +8,35 @@ Based on a croby-b's code idea.
 1. [Xany Compatibility](Xany_Compatibility.md)
 1. [Xany Serial Commands](Xany_Mode.md)
 1. [Buttons Serial Commands](Buttons_Mode.md)
+1. [Module Hardware options](docs/Hardware.md)
+1. Programming the module
+    * [Xany Mode](Upload_Xany.md)
+    * [Buttons Mode](Upload_Buttons.md)
+2. [Advanced Topics (not for the fainthearted!)](docs/Advanced_Topics.md)
 
+## Index
+1. [Tools Required](#tools-required)
+1. [Preparation](#preparation)
+   1. [Install the Arduino IDE](#install-the-arduino-ide)
+   1. [Download the Multiprotocol source and open the project](#download-the-multiprotocol-source-and-open-the-project)
+   1. [Install the Multi 4-in-1 board](#install-the-multi-4-in-1-board)
+   1. [Configure the Arduino IDE](#configure-the-arduino-ide)
+1. [Configure the firmware](#configure-the-firmware)
+   1. [Customize the firmware to match your hardware and your needs](#customize-the-firmware-to-match-your-hardware-and-your-needs)
+   1. [Verify the firmware](#verify-the-firmware)
+1. [Compiling and uploading the firmware](#compiling-and-uploading-the-firmware)
+   1. [Connect the programmer](#connect-the-programmer)
+   1. [Burn bootloader and set fuses](#burn-bootloader-and-set-fuses)
+   1. [Upload the firmware](#upload-the-firmware)
+      1. [Flash from TX](#flash-from-tx)
+      1. [Upload using Arduino IDE](#upload-using-arduino-ide)
+1. [Troubleshooting](#troubleshooting)
+## Tools required
+## Preparation
+### Install the Arduino IDE
+### Download the Multiprotocol source and open the project
+### Install the Multi 4-in-1 board
+### Configure the Arduino IDE
 
 ## Introduction
 For build this module we use the [Teensy-Variable-Playback](https://github.com/newdigate/teensy-variable-playback) library with a Teensy 4.0.  
