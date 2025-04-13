@@ -1,5 +1,5 @@
 ## Xany Compatibility
-All RC systems are not compatible with the Xany protocol.  
+All RC systems should be compatible with the Xany protocol.  
 
 ### Usable systems with Xany
 Xany Operational Report:  
