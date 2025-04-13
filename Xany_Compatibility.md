@@ -25,7 +25,7 @@ Multiplex is not Xany compatible :-(
 |BURC|CPPM 8 Voies T=22ms|2|CPPM|Radiomaster TX16S|100|FrSky X8R|SBUS|XanySpyV7|0|
 |BURC|SBUS Normal|2|SBUS|Radiomaster TX16S|100|FrSky X8R|PWM|XanySpyV7|0|
 |BURC|SBUS Normal|2|SBUS|Radiomaster TX16S|100|FrSky X8R|SBUS|XanySpyV7|0|
-|---|---|---|---|---|---|---|---|---|---|
+|---|
 |BURC|SBUS Normal|2|SBUS|Radiomaster TX16S|100|FlySky FS-IA10B|PWM|XanySpyV7|2|
 |BURC|SBUS Normal|2|SBUS|Radiomaster TX16S|100|FlySky FS-IA10B|IBUS|XanySpyV7|2|
 |BURC|SBUS Normal|2|SBUS|Radiomaster TX16S|100|FlySky FS-IA10B|SBUS|XanySpyV7|2|
