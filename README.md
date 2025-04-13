@@ -5,6 +5,7 @@ Based on a croby-b's code idea.
 
 ## Outline of the documentation
 1. Introduction (this page)
+1. [Xany Compatibility](Xany_Compatibility.md)
 1. [Xany Serial Commands](Xany_Mode.md)
 1. [Buttons Serial Commands](Buttons_Mode.md)
 1. [Module Hardware options](docs/Hardware.md)
