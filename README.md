@@ -15,7 +15,7 @@ For build this module we use the [Teensy-Variable-Playback](https://github.com/n
 
 Sound Module for Rc boat and Plane.  
 - Engine(s) variable sound.  
-- Multi Sounds (3 sound in same time).  
+- Multi Sounds (4 sounds in same time + motor).  
 - Smoke (pump and tank) engine command.  
 All these sounds are played in same time.  
 - Telemetry (CRSF,IBUS,S-PORT).  
