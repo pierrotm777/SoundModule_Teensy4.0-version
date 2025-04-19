@@ -21,11 +21,7 @@ Sound Module for Rc boat and Plane.
 All these sounds are played in same time.  
 - Telemetry (CRSF,IBUS,S-PORT).  
 
-<table cellspacing=0>
-  <tr>
-    <td align=center width=400><a href="..."><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Smoke_System.png" border="0" name="submit" title="Sound Module" alt="Sound Module"/></a><br><b>Full System</td>
-  </tr>
-</table>
+
 
 ## How it's work
 Two modes are possibles:
