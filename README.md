@@ -8,6 +8,7 @@ Based on a croby-b's code idea.
 1. [Xany Compatibility](Xany_Compatibility.md)
 1. [Xany Serial Commands](Xany_Mode.md)
 1. [Buttons Serial Commands](Buttons_Mode.md)
+1. [Smoke System](Smoke_System.md)  
 
 
 ## Introduction
@@ -19,6 +20,12 @@ Sound Module for Rc boat and Plane.
 - Smoke (pump and tank) engine command.  
 All these sounds are played in same time.  
 - Telemetry (CRSF,IBUS,S-PORT).  
+
+<table cellspacing=0>
+  <tr>
+    <td align=center width=400><a href="..."><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Smoke_System.png" border="0" name="submit" title="Sound Module" alt="Sound Module"/></a><br><b>Full System</td>
+  </tr>
+</table>
 
 ## How it's work
 Two modes are possibles:
@@ -105,8 +112,15 @@ You can change the **USER1.wav to USER15.wav by your own sounds**.
 USER16.wav is used as alarms sound.  
 
 ## Upload a firmware
-- X-Any version, use the hex file **teensy_sound_Xany_V2.1.XANY.hex**.  
-- Buttons version, use the hex file **teensy_sound_Xany_V2.1.BUTTONS.hex**.  
+- Frsky
+  - X-Any version, use the hex file **teensy_sound_Xany_V2.2.XANY_Frsky_S-SPORT.hex**.  
+  - Buttons version, use the hex file **teensy_sound_Xany_V2.2.BUTTONS_Frsky_S-SPORT.hex**.  
+- FlySky
+  - to do
+  - to do
+- ExpressLRS
+  - X-Any version, use the hex file **teensy_sound_Xany_V2.2.XANY_ExpressLRS_CRSF.hex**.  
+  - Buttons version, use the hex file **teensy_sound_Xany_V2.2.BUTTONS_ExpressLRS_CRSF.hex**.  
 
 For upload a firmware into the Teensy you must to use the [Teensy Loader](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Firmware/Teensy_Uploader.zip).  
 
