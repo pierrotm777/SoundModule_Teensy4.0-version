@@ -95,9 +95,9 @@ It's possible to select several motors.
 The module can list all sound's motor found into the SD card [ENGINES folder](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/SD_Wav_Files/ENGINES).  
 **ENG.LIST = DSL-LTL, DSL-V12, VAPEUR, DSL-OLD, DSL-120, DSL-TURB, DSL-TUG, SCAN-V12, DSL-BIG, DSL-180, DIESEL7, SCAN-250, CAT-C32, BF109**  
 Each motor use:  
-- A start file,ex:DSL-LTL_STA.  
-- An idle file,ex:DSL-LTL_IDL.  
-- A stop file,ex:DSL-LTL_STP.  
+- A start file, ex:DSL-LTL_STA.  
+- An idle file, ex:DSL-LTL_IDL.  
+- A stop file, ex:DSL-LTL_STP.  
 
 It's possible to add new motor's sounds.  
 The better way, for me, is to use [Audacity](https://www.audacityteam.org) for cut all sound find and save it as 16bits PCM 44100Hz wav file.  
