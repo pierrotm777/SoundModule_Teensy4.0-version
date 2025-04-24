@@ -20,7 +20,7 @@ Sound Module for Rc boat and Plane.
 - Multi Sounds (4 sounds in same time + motor).  
 - Smoke (pump and tank) engine command.  
 All these sounds are played in same time.  
-- Telemetry (CRSF,IBUS,S-PORT).  
+- Telemetry (CRSF, IBUS, S-PORT).  
 
 
 
