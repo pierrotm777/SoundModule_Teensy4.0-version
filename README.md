@@ -1,7 +1,7 @@
 # Multi Sounds for RC boat (or Truck, Tank, Car and Plane)
 
 ## Credits
-Based on a croby-b's code idea.  
+Based on a croby-b's code idea and powered by Rc-Navy libraries.  
 
 ## Outline of the documentation
 1. Introduction (this page)
