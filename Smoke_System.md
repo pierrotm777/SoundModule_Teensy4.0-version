@@ -5,4 +5,4 @@
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Smoke&Blower.png)  
 
 ## Wiring smoke system ton the module
-![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module&Smoke&Blower.png) 
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module%26Smoke%26Blower.png) 
