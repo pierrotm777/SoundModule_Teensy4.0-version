@@ -7,5 +7,5 @@
 ## Wiring smoke system to the module
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module%26Smoke%26Blower.png)  
 
-## Smoke Fillind
+## Smoke Filling
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Smoke_Filling.png) 
