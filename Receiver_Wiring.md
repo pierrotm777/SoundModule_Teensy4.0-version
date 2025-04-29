@@ -4,7 +4,7 @@
 ## SBUS, IBUS, SUMD, SRXL, JETI
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Receiver_SBUS.png)  
 
-J8 feature:  
+### J8 feature
 	- CPPM
 	- SBUS
 	- IBUS
@@ -12,7 +12,7 @@ J8 feature:
 	- SRXL
 	- JETIEX
 
-## CRSF
+### J15 feature
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Receiver_CRSF.png)  
 J15 feature:
 	- CRSF
