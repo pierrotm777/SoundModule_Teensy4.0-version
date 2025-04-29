@@ -7,4 +7,4 @@
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ampli18w.jpg)  
 
 ## Wiring Smoke system
-![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ampli18w.jpg)  
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module%26Smoke%26Blower.png)  
