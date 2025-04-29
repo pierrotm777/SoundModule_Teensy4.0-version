@@ -7,6 +7,13 @@
   </tr>
 </table>
 
+## Wiring to Power 2s or 3s 
+<table cellspacing=0>
+  <tr>
+    <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Power_Wiring.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Power_Wiring.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.0"/></a><br><b>All connections</td>
+  </tr>
+</table>
+
 ## Wiring Amplifier 18W KEMO M033N
 <table cellspacing=0>
   <tr>
