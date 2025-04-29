@@ -8,7 +8,6 @@ Based on a croby-b's code idea and powered by Rc-Navy libraries.
 1. [Xany Compatibility](Xany_Compatibility.md)
 1. [Xany Serial Commands](Xany_Mode.md)
 1. [Buttons Serial Commands](Buttons_Mode.md)
-1. [Smoke System](Smoke_System.md)  
 1. [Wiring Sound module](Wiring_Module.md)
 
 
