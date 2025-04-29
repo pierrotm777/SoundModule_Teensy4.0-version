@@ -34,3 +34,10 @@
     <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Four_Alarms_System.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Four_Alarms_System.png" border="0" name="submit" title="Sound Module" alt="Soke System"/></a><br><b>Four System Alamrs</td>
   </tr>
 </table>
+
+## Wiring with receiver
+<table cellspacing=0>
+  <tr>
+    <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Receiver_Wiring.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/SBUS_CRSF_Telemetry.png" border="0" name="submit" title="Sound Module" alt="Soke System"/></a><br><b>Four System Alamrs</td>
+  </tr>
+</table>
