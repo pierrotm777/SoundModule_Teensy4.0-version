@@ -1,1 +1,1 @@
-# Alarm if Tank's wtar is empty
+# Alarm if Tank's water is empty
