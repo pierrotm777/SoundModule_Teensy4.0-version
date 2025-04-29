@@ -8,3 +8,9 @@
 
 ## Wiring Smoke system
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module%26Smoke%26Blower.png)  
+
+## Wiring Water Empty Alarm
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module%26Smoke%26Blower.png)  
+
+## 4 Alarms
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module%26Smoke%26Blower.png)  
