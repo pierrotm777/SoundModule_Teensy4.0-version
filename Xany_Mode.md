@@ -1,5 +1,6 @@
-## Xany Serial Commands
-On Start Xany mode:  
+# Xany Serial Commands
+
+## On Start Xany mode
 ```
 Sound Module (by croby_b). Apr  9 2025 11:10:57 V2.2 (PCB V1.2 by pierrotm777)
 		 oOO Powered by Rc-Navy Libraries OOo 
@@ -17,7 +18,7 @@ Ws2812b Setup done !
 End Setup !
 ```
 
-Help Xany Menu:  
+## Help Xany Menu
 H  
 ```
 H Help
@@ -70,3 +71,7 @@ Priorities: 0000 (Alarms Sounds)
 Mini Ch   : 1000
 Maxi Ch   : 2000
 ```
+
+## Explanation of all XANY commands
+The following commands appear in XANY mode (G 0)  
+[Wiring Sound module](Serial_commands.md)
