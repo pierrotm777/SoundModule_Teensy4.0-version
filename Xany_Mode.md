@@ -82,7 +82,34 @@ L Y Y=100 to 255 ms (Check All leds at Y speed)
 SV X X=1.0 External Voltage Scale
 ```
 
-S?  
+S?  for Screen mode
+```
+oO Settings Oo
+SBUS [ Xany by Screen ] use Channels 6(1) and 7(2) | Filter:0 | SW:16(1) SW:8 + PROP(RCUL5)
+S-PORT Telemetry in use.
+SD Card   : Ready
+ENG.LIST  : BF109, CAT-C32, DIESEL, DIESEL7, DSL-120, DSL-180, DSL-BIG, DSL-LTL, DSL-OLD, DSL-TUG, DSL-TURB, DSL-V12, MOTOR, PT-BOAT, SCAN-250, SCAN-V12, VAPEUR
+Engine   1: Ready (Boat Mode) Name:MOTOR Use Ch:2 (Start by Xany)
+Volume    : Use Xany (Limited Vol:0.10)
+Ambient   : (Off) Use Xany
+Amb. Rnd. : (Off) Use Xany
+Fog       : (Off) Use Xany
+Anchor    : (Off) Use Xany
+Action    : (Off) Use Xany
+Action2   : (Off) Use Xany
+Smoke     : (Enabled)  (Off) Use Xany
+Engine Spd: 4
+ESC       : (Enabled)  (Off) Use Xany
+Smoke Ach : 2
+Smoke Min : 40
+Smoke Max : 126
+Priorities: 0000 (Alarms Sounds)
+Mini Ch   : 1000
+Maxi Ch   : 2000
+Scale ExtV: 1.26
+```
+
+S?  for Handset mode
 ```
 Sound Module V2.5 Powered By Rc-Navy libraries
 
