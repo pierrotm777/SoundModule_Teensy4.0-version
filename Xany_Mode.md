@@ -82,7 +82,7 @@ L Y Y=100 to 255 ms (Check All leds at Y speed)
 SV X X=1.0 External Voltage Scale
 ```
 
-S?  for Screen mode
+S?  for Screen mode (type G 0)  
 ```
 oO Settings Oo
 SBUS [ Xany by Screen ] use Channels 6(1) and 7(2) | Filter:0 | SW:16(1) SW:8 + PROP(RCUL5)
@@ -109,7 +109,7 @@ Maxi Ch   : 2000
 Scale ExtV: 1.26
 ```
 
-S?  for Handset mode
+S?  for Handset mode (type G 1)
 ```
 Sound Module V2.5 Powered By Rc-Navy libraries
 
