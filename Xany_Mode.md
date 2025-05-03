@@ -140,4 +140,5 @@ Scale ExtV: 1.26
 
 ## Explanation of all XANY commands
 The following commands appear in XANY mode (G 0)  
-[Wiring Sound module](Serial_commands.md)
+	- [Wiring Sound module](Serial_commands_FR.md)
+	- [Wiring Sound module](Serial_commands_EN.md)
