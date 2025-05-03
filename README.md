@@ -109,14 +109,14 @@ USER16.wav is used as alarms sound.
 
 ## Upload a firmware
 - Frsky
-  - X-Any version, use the hex file **teensy_sound_Xany_V2.2.XANY_Frsky_S-SPORT.hex**.  
-  - Buttons version, use the hex file **teensy_sound_Xany_V2.2.BUTTONS_Frsky_S-SPORT.hex**.  
+  - X-Any version, use the hex file **teensy_sound_Xany_V2.5.XANY_Frsky_S-SPORT.hex**.  
+  - Buttons version, use the hex file **teensy_sound_Xany_V2.5.BUTTONS_Frsky_S-SPORT.hex**.  
 - FlySky
   - to do
   - to do
 - ExpressLRS
-  - X-Any version, use the hex file **teensy_sound_Xany_V2.2.XANY_ExpressLRS_CRSF.hex**.  
-  - Buttons version, use the hex file **teensy_sound_Xany_V2.2.BUTTONS_ExpressLRS_CRSF.hex**.  
+  - X-Any version, use the hex file **teensy_sound_Xany_V2.5.XANY_ExpressLRS_CRSF.hex**.  
+  - Buttons version, use the hex file **teensy_sound_Xany_V2.5.BUTTONS_ExpressLRS_CRSF.hex**.  
 
 For upload a firmware into the Teensy you must to use the [Teensy Loader](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Firmware/Teensy_Uploader.zip).  
 
