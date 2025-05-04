@@ -1,15 +1,15 @@
 # Structure de la carte SD 
-  -/CONFIG
+  -/CONFIG  
   Contient le fichier Json mis à jour  
-  -/DEFAULT
+  -/DEFAULT  
   Les sons Moteur par défaut  
-  -/ENGINE
+  -/ENGINE  
   La liste de sons moteurs  
-  -/FIXEDSOUND
+  -/FIXEDSOUND  
   Sons spéciaux OBLIGATOIRE pour les Fonctions Spéciales  
-  -/RANDOM
+  -/RANDOM  
   Contient les sons utiliser en plus de ambiant en mode aléatoire  
-  -/USERSOUND
+  -/USERSOUND  
   Liste des sons attribués aux boutons  
 
 ## USERSOUND
