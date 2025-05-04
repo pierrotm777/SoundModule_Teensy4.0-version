@@ -1,10 +1,10 @@
 # Structure de la carte SD 
-/CONFIG  _____Contient le fichier Json mis à jour  
-/DEFAULT _____Les sons Moteur par défaut  
-/ENGINE ______La liste de sons moteurs  
-/FIXEDSOUND __Sons spéciaux OBLIGATOIRE pour les Fonctions Spéciales  
-/RANDOM ______Contient les sons utiliser en plus de ambiant en mode aléatoire  
-/USERSOUND ___Liste des sons attribués aux boutons  
+/CONFIG______Contient le fichier Json mis à jour  
+/DEFAULT_____Les sons Moteur par défaut  
+/ENGINE______La liste de sons moteurs  
+/FIXEDSOUND_Sons spéciaux OBLIGATOIRE pour les Fonctions Spéciales  
+/RANDOM_____Contient les sons utiliser en plus de ambiant en mode aléatoire  
+/USERSOUND_ Liste des sons attribués aux boutons  
 
 ## USERSOUND
 Si aucun fichier spécifique n'est trouvé dans le répertoire /USERSOUND, le système les définira comme NOT USED.  
