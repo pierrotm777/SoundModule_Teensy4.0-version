@@ -1,0 +1,22 @@
+{
+  "USER10.wav": "HALAMER",
+  "USER11.wav": "SEXEDUP",
+  "USER12.wav": "SUGAR",
+  "USER13.wav": "SHADEOFPALE",
+  "USER14.wav": "LIFEOFMARS",
+  "USER15.wav": "MURATLANTIQUE",
+  "USER16.wav": "FOLIEGRANDEUR",
+  "USER1.wav": "CLAXON",
+  "USER2.wav": "BRUME",
+  "USER3.wav": "MOUETTE",
+  "USER4.wav": "DAUPHIN",
+  "USER5.wav": "FRUITPASSION",
+  "USER6.wav": "NIGHTFEVER",
+  "USER7.wav": "FROMMETOYOU",
+  "USER8.wav": "FOREVERALWAYS",
+  "USER9.wav": "ALLTIMEWORLD",
+  "RANDOM_1.wav": "MOUETTE",
+  "RANDOM_2.wav": "MOUETTE2",
+  "RANDOM_3.wav": "MOUETTE3",
+  "RANDOM_4.wav": "MOUETTE4"
+}

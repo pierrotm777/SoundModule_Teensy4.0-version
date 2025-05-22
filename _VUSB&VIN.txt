@@ -1,0 +1,4 @@
+10. Si vous souhaitez séparer les sources d'alimentation, VUSB et VIN. Le moyen le plus simple consiste à ajouter une diode de protection de polarité inversée.
+
+Au début, vous devez couper la trace entre VUSB et VIN du côté de la soudure.
+Ensuite, ajoutez une diode Schottky. Il y a de la place pour ajouter une diode Schottky 1N5817 sur le T4. Le coussin au-dessus de la prise micro USB est VUSB, il suffit de souder l'anode de 1N5817 au coussin, souder la cathode de 1N5817 vers le VIN. Après cela, vous pouvez connecter la puissance USB et le VIN externe en même temps.

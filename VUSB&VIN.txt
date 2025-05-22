@@ -1,0 +1,8 @@
+Si vous souhaitez séparer les sources d'alimentation, VUSB et VIN.  
+Le moyen le plus simple consiste à ajouter une diode de protection.  
+Mais vous devez couper la trace entre VUSB et VIN du côté de la soudure.  
+Ensuite, ajoutez une diode Schottky 1N5817.  
+La place pour ajouter cette diode Schottky 1N5817 sur le Teensy 4.0.
+La pin au-dessus de la prise micro USB est VUSB, il suffit de souder l'anode de 1N5817 à cette pin  
+et souder la cathode de 1N5817 vers VIN.  
+Après ça, on peut connecter la puissance USB et le VIN externe en même temps.  
