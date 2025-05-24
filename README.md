@@ -77,10 +77,16 @@ Depending on the receiver used, it's possible to connect the sound module in dif
 - JETIEX  
 - CRSF  
 
+A [BURC encoder](https://github.com/pierrotm777/BURC_Encoder) or a [LVGL ESP32 S3 Screen](https://github.com/pierrotm777/ESP32-BURC-Screen) is connected on a Handset by CPPM or SBUS.     
+
+These X-Any/BURC coder use the trainer port as slave and use up to 2 channels (for the Sound Module) as X-Any fonctions.  
+X-Any inject three additionals RC channels to a CPPM or SBUS frame for transport messages over these additionals channels.  
+At reception side, these messages are extracted from these 2 channels corresponding to the additionals channels.  
+These 2 channels are used to transport 2 messages containing the status of a set of switches or set of sound in the Sound Modul case.  
 
 ### Buttons mode
 This mode use a keyboard with 10 buttons (8 buttons + 2 for volume sounds).  
-It's a good solution for rc transmitters that do not have a training input.  
+It's a good solution for old rc transmitters that do not have a training input.  
 This keyboard is connected on a free input channel in place of a potentiometer.  
 This mode accept only 8 sounds.  
 The buttons 9 and 10 up or down the volume's sounds.  
@@ -102,12 +108,6 @@ Depending on the receiver used, it's possible to connect the sound module in dif
 - CRSF  
 
 
-A [BURC encoder](https://github.com/pierrotm777/BURC_Encoder) or a [LVGL ESP32 S3 Screen](https://github.com/pierrotm777/ESP32-BURC-Screen) is connected on a Handset by CPPM or SBUS.     
-
-**This X-Any/BURC coder use the trainer port as slave and uses up to 3 channels (for the Sound Module) as X-Any fonctions.** 
-**X-Any inject three additionals RC channels to a CPPM or SBUS frame for transport messages over these additionals channels.**  
-**At reception side, these messages are extracted from these channels corresponding to the additionals channels.**  
-**This serial port can be used to transport a message containing the status of a set of switches or set of sound in the Soud Modul case.**  
 
 ## PCB versions
 <table cellspacing=0>
