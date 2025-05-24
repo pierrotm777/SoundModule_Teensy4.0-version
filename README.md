@@ -15,12 +15,33 @@ Based on a croby-b's code idea and powered by Rc-Navy libraries.
 For build this module we use the [Teensy-Variable-Playback](https://github.com/newdigate/teensy-variable-playback) library with a Teensy 4.0.  
 
 Sound Module for Rc boat and Plane.  
-- Engine(s) variable sound.  
-- Multi Sounds (4 sounds in same time + motor).  
-- Smoke (pump and tank) engine command.  
-All these sounds are played in same time.  
-- Telemetry (CRSF, IBUS, S-PORT).  
 
+This module can:  
+- vary the engine sound based on engine speed.  
+- use any type of engine sound (more than 10 are already available).  
+- 4 simultaneous sounds in addition to the engine sound.  
+- 16 pre-programmable sounds.  
+- 4 pre-programmable random sounds.  
+- volume control via the touchscreen, a button on the transmitter, or two buttons on a 10-button keypad.  
+- Smoke system management (tank + air pump).  
+- 5 RGB LEDs (multicolored).  
+- Controllable via touchscreen or 10-button keypad.  
+- 2W audio amplifier (useful for small boats or testing) or 18W.  
+- Controllable via a receiver with PWM, CPPM, SBUS (Frsky or others), IBUS (Flysky), SRXL (Multiplex), SUMD (Graupner), JETI, or CRSF (ExpressLRS/TBS) output.  
+- ESC output management to adjust engine sound (adjustable acceleration and deceleration).  
+- 4 alarms, one of which is reversible to detect the absence of liquid, for example.  
+- Telemetry feedback of the Teensy's temperature as well as the motor battery voltage for Frsky (Hub or S-Port), Flysky (Ibus), ExpressLRS/TBS (CRSF).  
+- Module management/configuration via its serial interface.  
+- Module configuration backup on an SD card.  
+
+SD Card:  
+- This contains all the sounds and the sound module's configuration.  
+
+Power Supply:  
+The module is powered by a Lipo battery for a maximum of 2s to 3s.  
+It is possible to enable or disable the module's power supply using a relay or other solution via the On/Off connector.  
+
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ampli18w.jpg)  
 
 
 ## How it's work
