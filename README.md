@@ -59,6 +59,10 @@ Two modes are possibles:
 - Use [Buttons Keypad](http://p.loussouarn.free.fr/projet/MS8-V2/MS8-V2.html#Keyboard) fonctions by RC-Navy, thanks to him.  
 - The module read all WAV sounds from a SD card (from /ENGINES folder).  
 
+You can find more informations on the Sound Module:
+- [french manual](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module_Son_Manuel_Utilisateur.pdf).  
+- [english manual (TODO)](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Module_Son_Manuel_Utilisateur.pdf).    
+
 
 ### X-Any mode
 This mode decode the X-Any/BURC stream.  
@@ -98,7 +102,7 @@ Depending on the receiver used, it's possible to connect the sound module in dif
 - CRSF  
 
 
-A **BURC encoder** or a **LVGL ESP32 S3 Screen** is connected on a Handset by CPPM or SBUS.     
+A [BURC encoder](https://github.com/pierrotm777/BURC_Encoder) or a [LVGL ESP32 S3 Screen](https://github.com/pierrotm777/ESP32-BURC-Screen) is connected on a Handset by CPPM or SBUS.     
 
 **This X-Any/BURC coder use the trainer port as slave and uses up to 3 channels (for the Sound Module) as X-Any fonctions.** 
 **X-Any inject three additionals RC channels to a CPPM or SBUS frame for transport messages over these additionals channels.**  
