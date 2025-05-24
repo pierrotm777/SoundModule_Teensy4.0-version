@@ -14,7 +14,7 @@ Based on a croby-b's code idea and powered by Rc-Navy libraries.
 ## Introduction
 For build this module we use the [Teensy-Variable-Playback](https://github.com/newdigate/teensy-variable-playback) library with a Teensy 4.0.  
 
-Sound Module for Rc boat and Plane.  
+This Sound Module is primarily intended for model boats, trucks, tractors, tanks, and backhoe loaders, but can also be configured for aircraft.  
 
 This module can:  
 - vary the engine sound based on engine speed.  
@@ -41,10 +41,19 @@ Power Supply:
 The module is powered by a Lipo battery for a maximum of 2s to 3s.  
 It is possible to enable or disable the module's power supply using a relay or other solution via the On/Off connector.  
 
+A custom printed circuit board has been created. We are currently at version v1.2, visible above.  
+A v1.3 version is planned, which will include an additional option via an I2C interface.  
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ampli18w.jpg)  
 
 
-## How it's work
+Creating a new engine sound:  
+Simply retrieve the desired engine sound to create a startup sound, an operating sound, and a shutdown sound.  
+The more realistic the original sound, the more appealing the result will be.  
+So, when the engine starts, you hear the typical sound of an engine hesitating, followed by the normal sound with variations in frequency and speed.  
+Then, when the engine stick returns to center, after 5 to 10 seconds (adjustable), the shutdown sound is played.  
+
+
+## Two modes
 Two modes are possibles:
 - Use [X-Any/BURC encoder](https://p-loussouarn-free-fr.translate.goog/arduino/exemple/RCUL/RCUL.html?_x_tr_sch=http&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en) fonctions by RC-Navy, thanks to him.  
 - Use [Buttons Keypad](http://p.loussouarn.free.fr/projet/MS8-V2/MS8-V2.html#Keyboard) fonctions by RC-Navy, thanks to him.  
