@@ -115,6 +115,7 @@ Depending on the receiver used, it's possible to connect the sound module in dif
     <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Hardware/V1.0/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.0/Sound_Myca_Teensy-Top3d_v1.0.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.0"/></a><br><b>V1.0 (deprecated)</td>
     <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Hardware/V1.1/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.1/Sound_Myca_Teensy_Top_v1.1.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.1"/></a><br><b>V1.1 (deprecated)</td>
     <td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Hardware/V1.2/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.2/Sound_Myca_Teensy_Top_v1.2.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.2"/></a><br><b>V1.2</td>
+<td align=center width=400><a href="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Hardware/V1.2/README.md"><img src="https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.3/Sound_Myca_Teensy_Top.png" border="0" name="submit" title="Sound Module" alt="Sound Module v1.3"/></a><br><b>V1.2</td>
   </tr>
 </table>
 
