@@ -6,7 +6,7 @@ Replaced the old regulator with a L1117 5V.
 Added a 1N5819 Schottky diode for safety.  
 Separated the power supply for the tank; it will be powered by an external adjustable 6V 3A power supply.  
 Added the transformer and a capacitor before the MOSFET, necessary for using a piezo humidifier.  
-Replaced the MOSFETs with OA3400s, which freed up space for the transformer.  
+Replaced the MOSFET with OA3400, which freed up space for the transformer.  
 
 ## Schematics v1.3
 <table border="2">
