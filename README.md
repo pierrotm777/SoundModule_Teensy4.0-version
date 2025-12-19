@@ -145,6 +145,6 @@ USER16.wav is used as alarms sound.
 ## Upload a firmware
 Only one firmware for all features, need the PCB v1.2:  
   - [teensy_sound_Xany_V3_2_0.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_2_0.hex)
-  - [teensy_sound_Xany_V3_9.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_9.hex)
+  - [teensy_sound_Xany_V3_9.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_9.hex)  
 For upload a firmware into the Teensy you must to use the [Teensy Loader](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Firmware/Teensy_Uploader.zip).  
 
