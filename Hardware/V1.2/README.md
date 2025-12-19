@@ -26,3 +26,14 @@ Two modes are possibles:
 - X-Any.
 - Buttons Keypad. 
 
+# Last changes
+In this version, the tank is powered by the +5v and it's not enought.  
+For  better smoke performance, it's possible to use a +6v DCDC module as power.  
+How to do:  
+- cut +5v wire on J9.
+- cut the wire between **Out and HP 18w connector**.  
+- add a wire between Hp 18w and J9.  
+- connect a dcdc buck +6v 3A moduyle on HP 18w.  
+- use **Out and a GND pins** for new HP conection.  
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Hardware/V1.2/Modify%20Tank%20Power.png)  
+
