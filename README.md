@@ -143,8 +143,16 @@ You can change the **USER1.wav to USER15.wav by your own sounds**.
 USER16.wav is used as alarms sound.  
 
 ## Upload a firmware
-Only one firmware for all features, need the PCB v1.2:  
-  - [teensy_sound_Xany_V3_2_0.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_2_0.hex)
-  - [teensy_sound_Xany_V3_9.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_9.hex)  
+Only one firmware for all features:
+1. For PCB v1.2:  
+  - [teensy_sound_Xany_V3_2_0.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_2_0-v1.2.hex)
+  - [teensy_sound_Xany_V3_9.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_9-v1.2.hex)  
+1. For PCB v1.3:
+  - [teensy_sound_Xany_V3_9.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_9-v1.3.hex)  
 For upload a firmware into the Teensy you must to use the [Teensy Loader](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Firmware/Teensy_Uploader.zip).  
 
+# Wifi feature
+With the v1.2 and v1.3 PCB versions, it's now possible to obtain several informations from the sound module.  
+For use this option, we need to add a little [ESP32C3 LCD board](https://www.google.com/search?client=firefox-b-d&q=ESP32C3+LCD) connected to the Teensy bu a serial port.  
+This board use the ESPNOW protocol for communicate with the [ESP32 coder](https://github.com/pierrotm777/ESP32-BURC-Screen) screen.  
+See [here]() for more informations.  
