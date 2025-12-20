@@ -161,7 +161,7 @@ See [here]() for more informations.
 ## Temperatures feature
 With the v1.2 and v1.3 PCB versions, it's now possible to send telemetry to a RC transmitter.  
 Three sensors are simulated:
-  - Battery of our model, (by default 3S with R12=33K (PCB v1.2) or R9=33K (PCB v1.3).  
+  - Battery of your model, (by default 3S with R12=33K (PCB v1.2) or R9=33K (PCB v1.3).  
   - Teensy temperature (no need specific hardware).  
   - Tank temperature (need to connect a DS18B20 to Teensy pin 27, GND and 3.3v).  
 ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ds18b20_wiring.png)  
