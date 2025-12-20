@@ -164,7 +164,7 @@ Three sensors are simulated:
   - Battery of your model, (by default 3S with R12=33K (PCB v1.2) or R9=33K (PCB v1.3).  
   - Teensy temperature (no need specific hardware).  
   - Tank temperature (need to connect a DS18B20 to Teensy pin 27, GND and 3.3v).  
-![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ds18b20_wiring.png)  
+![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ds18b20_wiring.png) ![](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/ds18b20_Teensy.jpg)  
   Versions telemetries usable are:
     - S-PORT (D16 Frsky)  
     - HUB (old D8 Frsky)  
