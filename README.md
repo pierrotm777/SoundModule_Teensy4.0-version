@@ -150,8 +150,20 @@ Only one firmware for all features:
   - [teensy_sound_Xany_V3_9.hex](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/blob/main/Firmware/teensy_sound_Xany_V3_9-v1.3.hex)  
 For upload a firmware into the Teensy you must to use the [Teensy Loader](https://github.com/pierrotm777/SoundModule_Teensy4.0-version/tree/main/Firmware/Teensy_Uploader.zip).  
 
-# Wifi feature
+# New features
+
+## Wifi feature
 With the v1.2 and v1.3 PCB versions, it's now possible to obtain several informations from the sound module.  
 For use this option, we need to add a little [ESP32C3 LCD board](https://www.google.com/search?client=firefox-b-d&q=ESP32C3+LCD) connected to the Teensy bu a serial port.  
 This board use the ESPNOW protocol for communicate with the [ESP32 coder](https://github.com/pierrotm777/ESP32-BURC-Screen) screen.  
 See [here]() for more informations.  
+
+## Temperatures feature
+With the v1.2 and v1.3 PCB versions, it's now possible to send telemetry to a RC transmitter.  
+Three sensors are simulated:
+  - Battery of our model, (by default 3S with R12=33K (PCB v1.2) or R9=33K (PCB v1.3).  
+  - Teensy temperature (no need specific hardware).  
+  - Tank temperature (need to connect a DS18B20 to Teensy pin 27, GND and 3.3v).  
+![]()  
+
+
